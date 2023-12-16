@@ -9,7 +9,8 @@ import Foundation
 
 
 struct MenuItem {
-  name
-  price
-  
+  var name: String
+  var price: String
+  var imageName: String
 }
+
