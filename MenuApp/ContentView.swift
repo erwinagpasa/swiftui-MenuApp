@@ -23,13 +23,9 @@ struct ContentView: View {
                                  MenuItem(name: "Ikura Sushi", price: "5.99", imageName: "ikura-sushi")]
   
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, erwin agpasa!")
-        }
-        .padding() 
+      List(menuItems) { item in
+        
+      }
     }
 }
 
