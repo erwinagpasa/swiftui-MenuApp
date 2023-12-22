@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B39D6552B35C37600C4B4D7 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B39D6542B35C37600C4B4D7 /* DataService.swift */; };
 		8B8D828F2B2AC99F006AD65E /* MenuAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D828E2B2AC99F006AD65E /* MenuAppApp.swift */; };
 		8B8D82912B2AC99F006AD65E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8D82902B2AC99F006AD65E /* ContentView.swift */; };
 		8B8D82932B2AC9A0006AD65E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B8D82922B2AC9A0006AD65E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B39D6542B35C37600C4B4D7 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		8B8D828B2B2AC99F006AD65E /* MenuApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MenuApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B8D828E2B2AC99F006AD65E /* MenuAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuAppApp.swift; sourceTree = "<group>"; };
 		8B8D82902B2AC99F006AD65E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				8B8D828E2B2AC99F006AD65E /* MenuAppApp.swift */,
 				8B8D82902B2AC99F006AD65E /* ContentView.swift */,
 				8B8D829C2B2AE688006AD65E /* MenuItem.swift */,
+				8B39D6542B35C37600C4B4D7 /* DataService.swift */,
 				8B8D82922B2AC9A0006AD65E /* Assets.xcassets */,
 				8B8D82942B2AC9A0006AD65E /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				8B8D829D2B2AE688006AD65E /* MenuItem.swift in Sources */,
 				8B8D82912B2AC99F006AD65E /* ContentView.swift in Sources */,
 				8B8D828F2B2AC99F006AD65E /* MenuAppApp.swift in Sources */,
+				8B39D6552B35C37600C4B4D7 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
