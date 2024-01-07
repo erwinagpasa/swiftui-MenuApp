@@ -1,3 +1,3 @@
-# swiftui-MenuApp
+# SwiftUI - MenuApp
 
 ![ScreenShot](scr.png)
